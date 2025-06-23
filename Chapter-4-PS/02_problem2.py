@@ -1,0 +1,17 @@
+student = []
+
+a = int(input("Enter marks of student :"))
+student.append(a)
+b = int(input("Enter marks of student :"))
+student.append(b)
+c = int(input("Enter mark  of student :"))
+student.append(c)
+d = int(input("Enter marks of student :"))
+student.append(d)
+e = int(input("Enter marks of student :"))
+student.append(e)
+f = int(input("Enter marks of student :"))
+student.append(f)
+g = int(input("Enter marks of student :"))
+student.append(g)
+print(sorted(student))
