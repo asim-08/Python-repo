@@ -1,5 +1,5 @@
 age = int(input("Enter you'r age: "))
-# "If" "elif" "else" ladder.
+# "if" "elif" "else" ladder.
 if (age>18):
     print("You are above the age of concent")
     print("So You can vote")
